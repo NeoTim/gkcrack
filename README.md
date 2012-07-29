@@ -10,3 +10,5 @@ GNOME Keyring cracker
 3. ```cat ~/magnum-jumbo/run/password.lst  | ./gkcrack <keyring name>```
 
 Speed: 290 to 350 passwords / second on i3-2120 CPU @ 3.30GHz (using single core).
+
+For brute-forcing GNOME Keyring files use JtR-jumbo instead of this program!
